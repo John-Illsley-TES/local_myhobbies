@@ -3,6 +3,7 @@
  * A form for adding and editing hobbies.
  *
  * @package   local_hobbies
+ * @author    John Illsley 2021
  */
 
 namespace local_myhobbies\forms;

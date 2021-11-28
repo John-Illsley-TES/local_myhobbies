@@ -3,6 +3,7 @@
  * Store for hobbies.
  *
  * @package   local_hobbies
+ * @author    John Illsley 2021
  */
 
 namespace local_myhobbies\store;
